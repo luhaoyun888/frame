@@ -1,0 +1,5 @@
+{
+  "name": "ApiHub Core Studio",
+  "description": "ApiHub Core v0.1 交互式架构蓝图与源码查看器 - 基于客人自理内存模型 (Guest-Owned Memory Model) 的插件系统。",
+  "requestFramePermissions": []
+}
